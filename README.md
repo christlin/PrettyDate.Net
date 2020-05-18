@@ -7,7 +7,7 @@ PrettyDate.Net is a .Net library to provide pretty date conversion from regular 
 ### Installation
 
 ```
-Install-Package PrettyDate.Net -Version 1.0.0
+Install-Package PrettyDate.Net
 ```
  
 
