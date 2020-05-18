@@ -2,7 +2,7 @@
 
 PrittyDate.Net is a .Net library to provide pretty date conversion from regular DateTime Object.
 
-![CI](https://github.com/christlin/PrettyDate.Net/workflows/CI/badge.svg)
+![Build](https://github.com/christlin/PrettyDate.Net/workflows/CI/badge.svg)
 
 ### Installation
 
