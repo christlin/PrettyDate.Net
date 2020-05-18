@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("PrettyDate.Net")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("PrittyDate.Net is a .Net library to provide pretty date conversion from regular DateTime Object.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Christlin")]
 [assembly: AssemblyProduct("PrettyDate.Net")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
