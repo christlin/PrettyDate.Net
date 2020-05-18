@@ -1,6 +1,6 @@
 # PrettyDate.Net
 
-PrittyDate.Net is a .Net library to provide pretty date conversion from regular DateTime Object.
+PrettyDate.Net is a .Net library to provide pretty date conversion from regular DateTime Object.
 
 ![Build](https://github.com/christlin/PrettyDate.Net/workflows/CI/badge.svg)
 
